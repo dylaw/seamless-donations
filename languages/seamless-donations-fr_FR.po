@@ -1,0 +1,89 @@
+# Seamless Donations by Seamless Donations, Inc.
+# Copyright (C) Seamless Donations, Inc.
+# This file is distributed under the same license as the Seamless Donations package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-01-15 16:55+0100\n"
+"PO-Revision-Date: 2015-01-18 19:19+0100\n"
+"Last-Translator: fr_FR\n"
+"Language-Team: Doghri Walid <dilaw19@hotmail.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: dgx-donate.php:470
+msgid "Donation Information"
+msgstr "Information de don"
+
+#: dgx-donate.php:470
+msgid "I would like to make a donation in the amount of:"
+msgstr "Je voudrais faire un don d'un montant de:"
+
+#: dgx-donate.php:493
+msgid "Other:"
+msgstr "Autre:"
+
+#: dgx-donate.php:661
+msgid "Donor Information"
+msgstr "Information des donateurs"
+
+#: dgx-donate.php:663
+msgid "First Name:"
+msgstr "Prénom:"
+
+#: dgx-donate.php:667
+msgid "Last Name:"
+msgstr "Nom:"
+
+#: dgx-donate.php:675
+msgid "Phone:"
+msgstr "Téléphone:"
+
+#: dgx-donate.php:700
+msgid "Email:"
+msgstr ""
+
+#: dgx-donate.php:706
+msgid "Add me to your mailing list"
+msgstr "Ajoutez-moi à votre liste de diffusion"
+
+#: dgx-donate.php:713
+msgid "Please do not publish my name.  I would like to remain anonymous."
+msgstr "S'il vous plaît ne publier pas mon nom. Je tiens à rester anonyme."
+
+#: dgx-donate.php:734
+msgid "Donor Address"
+msgstr "Adresse du donateur"
+
+#: dgx-donate.php:737
+msgid "Address:"
+msgstr "Adresse"
+
+#: dgx-donate.php:741
+msgid "Address 2:"
+msgstr "Adresse 2:"
+
+#: dgx-donate.php:746
+msgid "City:"
+msgstr "Ville:"
+
+#: dgx-donate.php:752
+msgid "State:"
+msgstr ""
+
+#: dgx-donate.php:756
+msgid "Province:"
+msgstr ""
+
+#: dgx-donate.php:760
+msgid "Country:"
+msgstr "Pays:"
+
+#: dgx-donate.php:764
+msgid "Postal Code:"
+msgstr "Code postal:"
